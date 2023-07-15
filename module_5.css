@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+
+.navbar li{
+   float:left;
+list-style:none;
+padding: 20px 70px;
+font-size: 50px;
+
+}
+.navbar li a{
+    overflow:auto;
+    text-decoration:none;
+    color:black;
+}
+
